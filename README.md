@@ -1,4 +1,4 @@
-# Aimlab_Cheat
+# Aimlab_Cheat (Automatic aiming and shooting)
 This project is plagiarism of Bilibili up主: -Fragments-.
-Original video address: <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=112717188957754&bvid=BV1oshveaEoW&cid=500001602951162&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-Automatic aiming and shooting
+[Original video address](https://www.bilibili.com/video/BV1oshveaEoW/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=58b715621f548ab3ab3a2cb0d5fce12e)
+
